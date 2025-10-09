@@ -18,7 +18,6 @@ import Scroll from "@components/MDX/Scroll";
 import Slider from "@components/MDX/Slider";
 import Viewer from "@components/MDX/Viewer";
 import { getSlug } from "@src/lib/build/slug";
-import BeforeAfterSlider from "@components/MDX/BeforeAfterSlider";
 import Juxtapose from "@components/MDX/Juxtapose.tsx";
 
 /**
@@ -26,7 +25,6 @@ import Juxtapose from "@components/MDX/Juxtapose.tsx";
  */
 const canopyComponents = {
   Button,
-  BeforeAfterSlider,
   ButtonWrapper,
   Card,
   Container,
