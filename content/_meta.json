@@ -12,6 +12,10 @@
     "text": "Map"
   },
   {
+    "path": "/about",
+    "text": "Demos"
+  },
+  {
     "path": "/timeline",
     "text": "Timeline"
   }
